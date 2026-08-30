@@ -1,0 +1,4 @@
+[submodule "UI/my-project"]
+	path = UI/my-project
+	url = https://github.com/ApodidaeDeSwift/ArkPlots.git
+	update = none
